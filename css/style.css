@@ -150,7 +150,7 @@ footer span {
     clear: both;
 }
 
-.media {
+#media {
     display: none;
 }
 
@@ -229,7 +229,7 @@ footer span {
         font-size: 1.2em;
     }
 
-    .media {
+    #media {
         display: inline-block;
         float: right;
         margin-top: 1.1em;
@@ -256,7 +256,7 @@ footer span {
         float: left;
     }
 
-    .top-nav {
+    #top-nav {
         float: right;
         margin-top: 1.2em;
     }
