@@ -243,6 +243,10 @@ footer span {
 
 @media (min-width: 1024px) {
 
+    .container, .bg {
+        max-width: 90rem;;
+    }
+
 
     #portfolio {
         padding: 2%;
@@ -270,7 +274,6 @@ footer span {
 
 
     .bg {
-        width: 95%;
         margin: 2em auto;
     }
 
